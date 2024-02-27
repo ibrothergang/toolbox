@@ -11,6 +11,7 @@ Supabase 主打 PostgreSQL 数据库服务，并且集成了用户登录验证�
 
 ### 支付
 Stripe 是海外收款的首选，几乎能想到与收款相关的服务，他们都有相应产品。接入也不难，Vercel 还有一个 Stripe 订阅模板，第一次见如此详尽的开发文档。类似服务：<https://paddle.com>、<https://lemonsqueezy.com>
+
 缺点：Stripe 的注册成本比较高，需要海外的公司账户。
 曲线救国：网站上线，就可以先开通 ko-fi.com 捐赠按钮，等网站有流量了，再开通Adsense，再等后面流量继续增长，才考虑接入支付。支付可以用 <https://lemonsqueezy.com/> ，护照就可以开通，要求用已经做好的网站去申请，会审核网站。再等后面订单多了，为了降低通道费，可以注册美国公司，再注册 Stripe
 
@@ -29,3 +30,37 @@ Affiliate 分销联盟是一个不可忽略的推广方式。<https://rewardful.
 
 ### 错误跟踪
 可以使用 <https://sentry.io>，只要代码写得不太烂，免费额度应该是够用的，同样也有开源版本。类似服务：<https://rollbar.com>、<https://newrelic.com>
+
+
+### 网页样式
+<https://web3templates.com/>
+<https://vercel.com/new/ibrothergangs-projects/templates>
+
+
+### 一些 SVG 资源
+
+SVG 教程
+<https://svg-tutorial.com/>
+一步一步教你如何画出 SVG 图形，如何做 SVG 动画
+
+SVG 天气图标动画库
+<https://bas.dev/work/meteocons>
+都是一些简单的图形，可以用来学习看看别人怎么用 SVG 实现画出各种想要的图形，如何做动画。
+
+开源 Web 动画编辑器
+<https://github.com/theatre-js/theatre>
+一个带图形界面的 Web 动画编辑器，支持 React 实现 HTML 或者 SVG 动画
+
+
+### Paywall Screens集
+
+链<https://www.paywallscreens.com>
+付费墙是指软件将免费与付费内容分隔开，提示用户付费后才能查看内容的页面。这个网站收集了8千多个付费墙页面供参考。帮助产品经理和设计师设计出美观转化率又高的付费墙页面。
+
+### 网站评论系统
+<https://twikoo.js.org/>
+
+### 海外公司注册
+[通过1st Formations 28英镑注册正规英国公司教程——只需护照（身份证）、国内地址](https://jiamizixun.com/331)
+
+https://www.xujiahua.com/9627.html
