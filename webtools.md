@@ -23,6 +23,7 @@ Affiliate 分销联盟是一个不可忽略的推广方式。<https://rewardful.
 
 ### 域名邮箱
 可以使用 <https://zoho.com>，最便宜 $1/月，还要什么自行车。类似服务：<https://mymangomail.com>
+[text](https://www.mailgun.com/)
 
 ### 数据统计
 已经受够了 Google Analytics，于是换成了 <https://plausible.io>，也有开源版本。类似服务：<https://beamanalytics.io>
@@ -64,3 +65,29 @@ SVG 天气图标动画库
 [通过1st Formations 28英镑注册正规英国公司教程——只需护照（身份证）、国内地址](https://jiamizixun.com/331)
 
 https://www.xujiahua.com/9627.html
+
+### Stripe
+[国内如何注册香港Stripe个人账户（可全球收款，2024年最新教程）](https://mp.weixin.qq.com/s/br0anhSFN8qXlnbogk-sfg)
+
+
+### 短信激活
+https://5sim.net/zh
+https://sms-activate.org/cn/buy
+
+### 域名注册
+2.1、域名购买渠道
+海外站，尽量不要在国内的域名注册商注册域名，国外的推荐注册商:
+[text](https://www.godaddy.com/)
+[text](https://www.namecheap.com/)
+[text](https://www.namesilo.com/)
+[text](https://porkbun.com/)
+[text](https://www.cloudflare.com/)
+[text](https://www.hostinger.com/)
+随便哪个都可以，你有哪个账号就在哪里注册，不用去纠结那几块钱的价格差
+
+### 虚拟手机短信
+[text](https://sms-man.com/cn)
+
+### 登录
+[text](https://next-auth.js.org/)
+[text](https://supabase.com/)
